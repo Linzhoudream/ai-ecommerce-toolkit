@@ -11,7 +11,12 @@
 6张电商标准套图，基于实物照片图生图生成
 
 ## 方法论
-（建设中）
+
+### [多 AI 协作框架（multi-ai-collaboration）](multi-ai-collaboration/README.md)
+一套经真实验证的多 AI 协作方法论：角色架构、信息素标记（Stigmergy）、超时降级、竞争演化、踩坑记录。回答"多个 AI 如何不靠重型实时系统也能稳定协作"。
+
+### [数字分身协作模式（digital-twin-pattern）](digital-twin-pattern/README.md)
+用早期 AI 分身当"守门人"的战略校准方法论：审核标准、授权边界、红线清单、沟通话术、仲裁机制。回答"AI 替主理人对外交付时如何不越权"。
 
 ## 安全说明
 本仓库仅展示脱敏后的公开内容。任何敏感信息（提取码、Token、密码等）均不存储于此。
